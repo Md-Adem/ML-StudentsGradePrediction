@@ -1,0 +1,135 @@
+Gender,Age,Country ,Status,Health,Job,Alcohol ,Parent_Education ,Family_income ,Family_Problems ,Coding_Midterm,Coding_Final
+Female,23,Saudi Arabia,Single,Excellent,No,No,Uneducated,Medium income,Just sometimes,28,45
+Female,٢١,Syria,In relationship,Excellent,No,No,College,Medium income,Just sometimes,٢٧,٤٦
+Female,42,Other,Married,Obesity,No,No,High school,High income,Just sometimes,20,39
+Male,٢٣,Palestine,Single,Excellent,No,No,College,Medium income,Just sometimes,٣٠,٥٠
+Male,26,Other,Single,Excellent,No,No,College,High income,Very rare,25,39
+Male,24,Syria,Single,Excellent,Part time job,No,College,Low income,Very rare,20,40
+Female,23,Egypt,Single,Good,No,No,College,Medium income,Just sometimes,29,45
+Female,24,Saudi Arabia,Single, Good,No,No,High school,Low income,Most of the times,30,49
+Female,22,Palestine,Single,Excellent,No,No,High school,Medium income,Very rare,19,41
+Female,20,Pakistan,Single,Good,No,No,High school,Low income,Just sometimes,لا,لا
+Female,22,Yemen,Single,Excellent,No,No,College,Medium income,Very rare,20,22
+Female,22,Saudi Arabia,Single,Excellent,No,No,High school,Medium income,Just sometimes,27,41
+Male,26,Saudi Arabia,Single,Excellent,Full time job,No,Uneducated,High income,Just sometimes,25,40
+Male,36,Saudi Arabia,Married,Good,Full time job,No,Uneducated,Medium income,Just sometimes,28,42
+Male,22,Saudi Arabia,Single,Excellent,No,Some times,College,Medium income,Most of the times,30,28
+Female,24,Palestine,Single,Excellent,No,No,College,Medium income,Very rare,23,45
+Female,23,Saudi Arabia,Single,Excellent,No,No,High school,Medium income,Most of the times,26,24
+Female,٢٤,Saudi Arabia,Single,Excellent,No,No,High school,Low income,Most of the times,٢٧,٨١
+Male,43,Saudi Arabia,Married,Excellent,Full time job,No,College,Medium income,Very rare,24,32
+Female,21,Saudi Arabia,Single,Excellent,No,No,Uneducated,Medium income,Very rare,22,40
+Female,23,Saudi Arabia,Single,Chronic diseases,No,No,High school,Low income,Just sometimes,30,30
+Female,21,Syria,Single,Excellent,No,No,High school,Medium income,Just sometimes,28,43
+Female,24,Syria,Single,Good,No,No,College,Medium income,Just sometimes,22,36
+Male,27,Saudi Arabia,Married,Excellent,No,No,College,High income,Most of the times,25,42
+Female,٢٤,Saudi Arabia,Single,Excellent,No,No,High school,Low income,Most of the times,٢٧,٨١
+Female,22,Saudi Arabia,Single,Excellent,Part time job,No,College,Medium income,Very rare,27,47
+Female,21,Jordan,Single,Excellent,Part time job,No,College,High income,Just sometimes,23,35
+Female,24,Saudi Arabia,In relationship,Excellent,No,No,High school,Low income,Just sometimes,30,33
+Male,24,Saudi Arabia,Single,Excellent,Full time job,No,College,Medium income,Very rare,21,28
+Female,24,Saudi Arabia,In relationship,Excellent,No,No,High school,Low income,Just sometimes,30,33
+Female,21,Jordan,Single,Excellent,Part time job,No,College,High income,Just sometimes,23,35
+Female,24,Palestine,Single,Excellent,No,No,College,Medium income,Very rare,23,45
+Female,٢٣,Saudi Arabia,Single,Good,No,No,College,Medium income,Just sometimes,٢٢,٤٠
+Male,24,Sudan,Single,Excellent,No,No,Uneducated,Medium income,Very rare,20,25
+Female,24,Saudi Arabia,Single,Good,Part time job,No,Uneducated,Low income,Just sometimes,0,0
+Female,26,Saudi Arabia,Single,Excellent,No,No,College,Medium income,Just sometimes,0,0
+Male,27,Lebanon,Single,Obesity,No,No,College,Medium income,Just sometimes,24,40
+Female,٢٢,Jordan,In relationship,Good,No,No,College,Medium income,Most of the times,٢٨,٤٨
+Female,24,Saudi Arabia,Single,Excellent,No,Some times,High school,Medium income,Just sometimes,20,35
+Female,23,Saudi Arabia,Married,Excellent,No,No,High school,Medium income,Very rare,No,No
+Female,٢٢,Jordan,In relationship,Good,No,No,College,Medium income,Most of the times,٢٨,٤٨
+Female,23,Syria,Single,Obesity,Full time job,No,College,Low income,Just sometimes,20,25
+Female,٢٨,Syria,Married,Good,No,No,High school,Low income,Just sometimes,20,25
+Male,25,Palestine,Single,Excellent,Part time job,No,High school,High income,Just sometimes,23,29
+Male,25,Palestine,Single,Excellent,Part time job,No,High school,High income,Just sometimes,23,29
+Female,19,Palestine,Single,Good,No,No,College,Low income,Most of the times,20,27
+Female,22,Jordan,Single,Excellent,No,No,College,Medium income,Just sometimes,38,46
+Female,22,Jordan,Single,Excellent,No,No,College,Medium income,Just sometimes,38,46
+Female,19,Palestine,Single,Good,No,No,College,Low income,Most of the times,20,27
+Male,20,Saudi Arabia,Single,Excellent,No,No,College,Medium income,Very rare,23,40
+Male,20,Saudi Arabia,Single,Excellent,No,No,College,Medium income,Very rare,23,40
+Male,24,Saudi Arabia,Single,Good,No,No,High school,High income,Very rare,26,31
+Male,33,Saudi Arabia,Married,Excellent,Full time job,Some times,College,High income,Very rare,29,48
+Female,24,Saudi Arabia,In relationship,Excellent,No,No,High school,Medium income,Just sometimes,25,40
+Female,٢٤,Saudi Arabia,Married,Excellent,No,No,College,High income,Just sometimes,٢٩,٤٦
+Female,26,Yemen,Married,Excellent,No,No,College,Medium income,Just sometimes,30,50
+Male,23,Sudan,Single,Excellent,Full time job,No,High school,Medium income,Just sometimes,27,43
+Female,22,Saudi Arabia,Single,Excellent,No,No,College,Medium income,Just sometimes,30,39
+Female,—,Saudi Arabia,Single,Excellent,No,No,High school,High income,Just sometimes,30,48
+Female,26,Palestine,Married,Good,No,No,College,High income,Very rare,27,46
+Female,21,Saudi Arabia,Single,Good,No,No,High school,High income,Very rare,21,46
+Male,23,Egypt,In relationship,Excellent,No,No,College,Medium income,Just sometimes,22,30
+Female,٣١,Saudi Arabia,Married,Chronic diseases,No,No,College,Low income,Just sometimes,23,30
+Female,22,Syria,Single,Good,No,No,College,Medium income,Most of the times,25,30
+Male,24,Saudi Arabia,Single,Good,No,No,High school,High income,Very rare,26,31
+Female,22,Syria,Single,Good,No,No,College,Medium income,Just sometimes,15,23
+Female,٢٣,Saudi Arabia,Married,Excellent,No,No,College,Medium income,Just sometimes,23,37
+Female,21,Saudi Arabia,Single,Good,No,No,High school,High income,Very rare,21,46
+Female,—,Saudi Arabia,Single,Excellent,No,No,High school,High income,Just sometimes,30,48
+Male,31,Saudi Arabia,Married,Good,Full time job,No,High school,Medium income,Just sometimes,24,38
+Female,24,Saudi Arabia,Single,Excellent,No,Some times,High school,Medium income,Just sometimes,20,35
+Male,24,Syria,Single,Good,No,No,College,Medium income,Just sometimes,27,40
+Female,42,Saudi Arabia,Married,Good,No,No,High school,Medium income,Very rare,20,40
+Female,21,Saudi Arabia,Single,Excellent,Part time job,No,College,Medium income,Very rare,27,48
+Male,٢٤,Saudi Arabia,Single,Excellent,No,No,Uneducated,Medium income,Just sometimes,23,41
+Female,25,Saudi Arabia,Single,Excellent,No,No,Uneducated,High income,Very rare,30,50
+Female,25,Other,Single,Good,No,No,College,Medium income,Just sometimes,20,30
+Female,23,Saudi Arabia,Single,Excellent,No,No,College,Medium income,Just sometimes,24,33
+Female,24,Saudi Arabia,Single,Excellent,No,Some times,College,High income,Just sometimes,26,39
+Male,25,Yemen,Single,Excellent,No,No,Uneducated,Medium income,Very rare,22,40
+Female,37,Saudi Arabia,Married,Excellent,No,No,High school,Medium income,Just sometimes,30,30
+Female,23,Saudi Arabia,In relationship,Good,No,No,College,Medium income,Just sometimes,26,44
+Female,26,Yemen,Single,Excellent,No,No,High school,Low income,Most of the times,29,49
+Female,26,Sudan,Single,Excellent,No,No,High school,Medium income,Just sometimes,29,47
+Male,24,Sudan,Single,Excellent,Full time job,No,College,Medium income,Very rare,28,41
+Female,23,Syria,Single,Excellent,Full time job,No,College,High income,Very rare,20,35
+Male,23,Yemen,In relationship,Excellent,No,Some times,College,Medium income,Just sometimes,26,33
+Female,23,Yemen,Single,Excellent,No,No,High school,Medium income,Just sometimes,28,46
+Male,٢٣,Saudi Arabia,Single,Good,No,No,Uneducated,Medium income,Just sometimes,27,29
+Male,٢٣,Saudi Arabia,Single,Good,No,No,Uneducated,Medium income,Just sometimes,27,29
+Female,22,Saudi Arabia,Single,Excellent,No,No,High school,Medium income,Very rare,30,50
+Male,27,Saudi Arabia,Married,Excellent,No,Yes,College,High income,Most of the times,25,41
+Male,27,Saudi Arabia,Single,Excellent,Full time job,Yes,College,Medium income,Just sometimes,22,38
+Male,24,Saudi Arabia,Single,Obesity,No,No,College,Medium income,Very rare,15,36
+Female,22,Saudi Arabia,In relationship,Excellent,No,No,High school,Medium income,Very rare,22,37
+Female,25,Yemen,Married,Excellent,No,No,High school,Medium income,Very rare,25,42
+Female,23,Saudi Arabia,Single,Excellent,No,No,Uneducated,Medium income,Just sometimes,29,41
+Male,25,Afghanistan,Single,Excellent,Part time job,No,Uneducated,Medium income,Just sometimes,27,40
+Male,23,Sudan,Single,Excellent,Full time job,Some times,Uneducated,Medium income,Just sometimes,27,47
+Female,23,Syria,Single,Excellent,No,No,High school,Low income,Very rare,24,46
+Male,24,Saudi Arabia,Single,Excellent,Part time job,No,College,Medium income,Just sometimes,27,47
+Female,22,Other,Single,Excellent,No,No,Uneducated,Medium income,Very rare,23,44
+Female,26,Sudan,Single,Excellent,No,No,High school,Medium income,Just sometimes,29,47
+Female,23,Saudi Arabia,Single,Excellent,No,Some times,College,Medium income,Very rare,28,47
+Male,٢٩,Yemen,Single,Good,No,No,College,Low income,Very rare,٢٢,٢٩
+Female,23,Saudi Arabia,In relationship,Good,No,No,College,Medium income,Just sometimes,26,44
+Female,23,Saudi Arabia,Single,Excellent,No,Some times,College,Medium income,Very rare,28,47
+Female,23,Syria,Single,Excellent,No,No,College,Medium income,Just sometimes,30,35
+Female,35,Saudi Arabia,Married,Good,No,No,Uneducated,Medium income,Just sometimes,13,25
+Female,22,Saudi Arabia,Single,Excellent,No,No,High school,Medium income,Very rare,30,50
+Female,35,Saudi Arabia,Married,Good,No,No,Uneducated,Medium income,Just sometimes,13,25
+Male,21,Saudi Arabia,Single,Obesity,No,No,College,Medium income,Most of the times,10,20
+Female,35,Saudi Arabia,Married,Good,No,No,Uneducated,Medium income,Just sometimes,13,25
+Female,23,Yemen,Single,Excellent,No,No,High school,Medium income,Just sometimes,28,46
+Female,26,Yemen,Married,Excellent,No,No,College,Medium income,Just sometimes,30,50
+Male,33,Saudi Arabia,Married,Excellent,Full time job,Some times,College,Medium income,Just sometimes,29,49
+Male,23,Syria,Single,Excellent,Full time job,No,High school,Low income,Just sometimes,23,41
+Male,23,Egypt,Single,Excellent,No,No,High school,Medium income,Very rare,27,36
+Female,50,Saudi Arabia,Married,Good,No,No,High school,Medium income,Just sometimes,20,32
+Male,33,Saudi Arabia,Married,Excellent,Full time job,Some times,College,Medium income,Just sometimes,29,49
+Male,35,Saudi Arabia,Married,Excellent,Full time job,No,High school,Medium income,Just sometimes,25,38
+Female,22,Saudi Arabia,In relationship,Excellent,No,No,College,High income,Very rare,30,50
+Female,22,Saudi Arabia,In relationship,Excellent,No,No,College,High income,Very rare,30,50
+Male,24,Yemen,Single,Excellent,Part time job,No,College,Medium income,Very rare,24,40
+Male,23,Egypt,Single,Excellent,No,No,High school,Medium income,Very rare,27,36
+Female,24,Saudi Arabia,Single,Excellent,No,No,College,Medium income,Just sometimes,40,40
+Male,27,Saudi Arabia,Single,Excellent,Full time job,No,College,Low income,Just sometimes,28,40
+Male,19,Saudi Arabia,In relationship,Chronic diseases,No,No,College,Medium income,Just sometimes,24,42
+Female,24,Egypt,In relationship,Excellent,Full time job,No,Uneducated,Medium income,Just sometimes,11,15
+Female,20,Yemen,Single,Excellent,No,No,College,Medium income,Very rare,23,38
+Male,21,Jordan,Single,Psychiatric illness,No,No,College,Medium income,Most of the times,28,46
+Female,20,Yemen,Married,Excellent,No,No,College,Medium income,Most of the times,27,48
+Female,19,Palestine,Single,Good,No,No,College,Low income,Most of the times,27,40
+Male,24,Other,Single,Excellent,Full time job,No,High school,Medium income,Just sometimes,20,34
